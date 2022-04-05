@@ -1,0 +1,31 @@
+{
+	"players": [
+		{
+			"ip": "159.223.85.52",
+			"playername": "QuboCkBot"
+		},
+		{
+			"ip": "102.129.145.242",
+			"uuid": "8b387416-909c-42fc-9d82-ee09a3e05a4f",
+			"playername": "swarthybard"
+		},
+		{
+			"ip": "102.129.145.242",
+			"uuid": "d0a64bc7-56cc-4833-b77e-3aa32a0334c5",
+			"playername": "The_Zohan1221"
+		},
+		{
+			"ip": "35.168.60.231",
+			"uuid": "5987157d-30c6-4830-95ee-3484bf3e765d",
+			"playername": "DarksideFg"
+		},
+		{
+			"ip": "34.126.81.157",
+			"playername": "qFUCKME2022"
+		},
+		{
+			"ip": "35.240.250.123",
+			"playername": "qFUCKME2022"
+		}
+	]
+}
